@@ -6,7 +6,7 @@
 
 :alien: :fire: :alien: :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien: 
 
-## Table of Contents :rocket:
+## Table of Contents 
 - [SpaceHunter](#spacehunter)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
