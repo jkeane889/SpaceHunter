@@ -1,3 +1,17 @@
+"""
+Space Hunter - A 2D Vector Shooting space game.
+
+The game uses pygame's vector and physics modules to create an arcade-like shooting game.  Use the spacebar to shoot, the arrow keys to
+steer the ship, and dodge the enemy as they appear.
+
+Aliens run using a state machine (artificial intelligence), along with a world object to keep state of entities.
+
+Open MIT license.  Download to play yourself and beat your own high score!
+
+by. Jonathan Keane
+
+"""
+
 import pygame
 import pygame.mask
 from pygame.locals import *
