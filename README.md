@@ -4,6 +4,8 @@
 
 ------------------------------
 
+:alien: :fire: :alien: :fire: :alien: :rocket:
+
 ## Table of Contents
 - [SpaceHunter](#spacehunter)
   - [Table of Contents](#table-of-contents)
