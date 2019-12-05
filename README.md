@@ -5,7 +5,7 @@
 ------------------------------
 
 ## Table of Contents
-- [SpaceHunter](#amplify-austin)
+- [SpaceHunter](#spacehunter)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Contributors](#contributors)
@@ -25,7 +25,7 @@
 
 ## About
 
-The idea for the game came after completing Zed Shaw's "Learn Python the Hard Way," where you build a space game.  Somehow, I stumbled onto this challenge and thought, "wouldn't it be cool to create a space game that uses visuals and actual images to create a real, space-like simulation?"
+The idea for the game came after completing Zed Shaw's "Learn Python the Hard Way," where you build a space game.  Somehow, I stumbled onto this challenge and thought, "wouldn't it be cool to create a space game that uses visuals and actual images to create a real, space-like simulation?" 
 
 What started as a simple exercise, turned into a personal development challenge as the game tested my ability to understand vector graphics, advanced programming concepts, and physics.  
 
