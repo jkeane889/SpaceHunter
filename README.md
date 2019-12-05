@@ -32,7 +32,7 @@ The idea for the game came after completing Zed Shaw's "Learn Python the Hard Wa
 What started as a simple exercise, turned into a personal development challenge as the this process tested my ability to understand vector graphics, advanced programming concepts, and game physics.  
 
 
-## How to Play: :rocket:
+## How to Play :rocket:
 
 Your objective is to dodge as many alienships as possible and kill as many as you can (there is no going back!!!).  Use the Up, Down, Left and Right arrow keys to steer the direction of the ship, and aim to dodge the aliens as they appear on the screen.
 
@@ -45,8 +45,9 @@ You use the spacebar to shoot your laser and try to take out as many alien craft
 [Pygame Documentation](https://www.pygame.org/docs/)
 
 ## Setup and Requirements :rocket:
-
-## Scripts :rocket:
+1.  Ensure you have installed the latest Python version on your local machine 
+1. `git clone https://github.com/jkeane889/SpaceHunter.git` into desired folder
+1. `python main.py` 
 
 ### Future Features :rocket:
 These are a few of the following features that could be added in the future:
@@ -59,3 +60,9 @@ These are a few of the following features that could be added in the future:
 
 ### Helpful Resources :rocket:
 [Beginning Game Development With Python And Pygame From Novice to Professional](http://slav0nic.org.ua/static/books/python/beginning-game-development-with-python-and-pygame-from-novice-to-professional.9781590598726.29808.pdf)
+[Game Development in Python 3 With PyGame - 1 - Intro](https://www.youtube.com/watch?v=ujOTNg17LjI&t=766s)
+
+## THANK YOU! :rocket:
+
+A big shout out to 'sentdex' (YouTuber) whose PyGame tutorials contributed to my understanding of the basics of Pygame and game graphics!  A big thank you to Repl.It for hosting it's Gam Jam this past 2019! :pray: :pray: :pray:
+
