@@ -19,15 +19,9 @@
 ## Demo
 ![SpaceHunter](https://github.com/jkeane889/SpaceHunter/blob/master/spaceHuntGIF.gif)
 
-## Contributors
+## Contributor(s)
 
-By: Jonathan Keane
-
-Space Hunter is my first (ever!) game using Python.  After switching careers and starting to learn coding on my own, this started as an experiment for me to learn object oriented programming. 
-
-This game was a solo project on my own, and it tested my ability to learn something new.  What's nice is that with a little imagination, some determination, and persistence, you can really learn new things - even when challenging - you can show yourself how far you can go! 
-
-Thank you for this challenge Repl.It and I hope you host more in the future!
+[Jonathan](https://github.com/jkeane889)
 
 ## About
 
