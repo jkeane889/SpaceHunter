@@ -1,4 +1,7 @@
-<div style="text-align:center"><img src="https://github.com/jkeane889/SpaceHunter/blob/master/SpaceHunterLogo.png" /></div>
+<p align="center">
+  <img src="https://github.com/jkeane889/SpaceHunter/blob/master/SpaceHunterLogo.png">
+</p>
+
 ------------------------------
 
 ![SpaceHunter](https://github.com/jkeane889/SpaceHunter/blob/master/spaceHuntGIF.gif)
