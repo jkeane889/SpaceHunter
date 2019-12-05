@@ -44,7 +44,8 @@ There is a state machine to control the "brain" of each alien, to mimic artifici
 You use the spacebar to shoot your laser and try to take out as many alien craft as possible.  Your score is displayed in the upper-middle of the screen, and you can keep track of your highest score.  Once your health is depleted the game will end but you can replay right after!
 
 ## Technologies
-* PyGame
+![Pygame]()
+[Pygame Documentation](https://www.pygame.org/docs/)
 
 ## Setup and Requirements
 
