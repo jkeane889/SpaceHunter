@@ -4,7 +4,7 @@
 
 ------------------------------
 
-:alien: :fire: :alien: :fire: :alien: :rocket:
+:alien: :fire: :alien: :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien:  :fire: :alien: 
 
 ## Table of Contents
 - [SpaceHunter](#spacehunter)
