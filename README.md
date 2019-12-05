@@ -1,4 +1,4 @@
-![SpaceHunterLogo](https://github.com/jkeane889/SpaceHunter/blob/master/SpaceHunterLogo.png)
+<div style="text-align:center"><img src="https://github.com/jkeane889/SpaceHunter/blob/master/SpaceHunterLogo.png" /></div>
 ------------------------------
 
 ![SpaceHunter](https://github.com/jkeane889/SpaceHunter/blob/master/spaceHuntGIF.gif)
