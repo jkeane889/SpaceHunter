@@ -2,7 +2,7 @@
 #### *You are the last battleship remaining, and the enemy is closing in...*
 ------------------------------
 
-![SpaceHunter](https://imgur.com/a/5OCZeqZ)
+![SpaceHunter](https://gfycat.com/perkyzestyeuropeanfiresalamander)
 
 Space Hunter is my first (ever!) game using Python.  After switching careers and starting to learn coding on my own, this started as an experiment for me to learn object oriented programming. 
 
