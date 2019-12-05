@@ -12,7 +12,7 @@
   - [Demo](#demo)
   - [Contributors](#contributors)
   - [About](#about)
-  - [What does the app do?](#what-does-the-app-do)
+  - [How to Play:](#how-to-play)
   - [Technologies](#technologies)
   - [SetUp and Requirements](#setup-and-requirements)
   - [Scripts](#scripts)
@@ -29,13 +29,14 @@
 
 The idea for the game came after completing Zed Shaw's "Learn Python the Hard Way," where you build a space game.  Somehow, I stumbled onto this challenge and thought, "wouldn't it be cool to create a space game that uses visuals and actual images to create a real, space-like simulation?" 
 
-What started as a simple exercise, turned into a personal development challenge as the game tested my ability to understand vector graphics, advanced programming concepts, and physics.  
+What started as a simple exercise, turned into a personal development challenge as the this process tested my ability to understand vector graphics, advanced programming concepts, and game physics.  
+
+
+## How to Play: :rocket:
 
 Your objective is to dodge as many alienships as possible and kill as many as you can (there is no going back!!!).  Use the Up, Down, Left and Right arrow keys to steer the direction of the ship, and aim to dodge the aliens as they appear on the screen.
 
 There is a state machine to control the "brain" of each alien, to mimic artificial intelligence.  The aliens will chase after the player as you fly around the map.  If you run into enemy ships you will begin to lose health.
-
-## What does the app do? :rocket:
 
 You use the spacebar to shoot your laser and try to take out as many alien craft as possible.  Your score is displayed in the upper-middle of the screen, and you can keep track of your highest score.  Once your health is depleted the game will end but you can replay right after!
 
