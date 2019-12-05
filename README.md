@@ -1,4 +1,7 @@
 # **SpaceHunter**
+
+![SpaceHunterLogo]()
+
 #### *You are the last battleship remaining, and the enemy is closing in...*
 ------------------------------
 
