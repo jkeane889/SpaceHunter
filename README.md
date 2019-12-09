@@ -45,9 +45,9 @@ You use the spacebar to shoot your laser and try to take out as many alien craft
 [Pygame Documentation](https://www.pygame.org/docs/)
 
 ## Setup and Requirements :rocket:
-1.  Ensure you have installed the latest Python version on your local machine 
-1. `git clone https://github.com/jkeane889/SpaceHunter.git` into desired folder
-1. `python main.py` 
+1. Ensure you have latest version of Python installed.  From command line `python -V` 
+1. `git clone https://github.com/jkeane889/SpaceHunter.git` this repo into your desired folder location
+1. From command line, inside of cloned repo on local machine, run `python main.py` 
 
 ### Future Features :rocket:
 These are a few of the following features that could be added in the future:
