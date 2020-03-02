@@ -64,5 +64,5 @@ These are a few of the following features that could be added in the future:
 
 ## THANK YOU! :rocket:
 
-A big shout out to 'sentdex' (YouTuber) whose PyGame tutorials contributed to my understanding of the basics of Pygame and game graphics!  A big thank you to Repl.It for hosting it's Gam Jam this past 2019! :pray: :pray: :pray:
+A big shout out to 'sentdex' (YouTuber) whose PyGame tutorials contributed to my understanding of the basics of Pygame and game graphics!  A big thank you to Repl.It for hosting it's Game Jam this past 2019! :pray: :pray: :pray:
 
